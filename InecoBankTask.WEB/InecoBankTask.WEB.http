@@ -1,0 +1,6 @@
+@InecoBankTask.WEB_HostAddress = http://localhost:5053
+
+GET {{InecoBankTask.WEB_HostAddress}}/Product/
+Accept: application/json
+
+###
